@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Écoute à Moderation Rio","Écoute à  </>Rio"];
+const statusMessages = ["Joue à Automad Rio System ","Joue à  </>Rio"];
 
 
 let currentIndex = 0;
