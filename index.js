@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Écoute Moderation Rio","Écoute à </>Rio"];
+const statusMessages = ["Écoute à Moderation Rio","Écoute à  </>Rio"];
 
 
 let currentIndex = 0;
