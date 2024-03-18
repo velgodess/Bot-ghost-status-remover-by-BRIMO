@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Joue à Automad Rio System ","Joue à  </>Rio"];
+const statusMessages = ["Joue à  Memes Rio  ","Joue à  </>Rio"];
 
 
 let currentIndex = 0;
