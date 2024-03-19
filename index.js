@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Ramadhan Karim","Best Discord Bot"];
+const statusMessages = ["Moderation Rio","Moderation Rio"];
 
 
 let currentIndex = 0;
